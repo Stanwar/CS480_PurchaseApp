@@ -1,0 +1,9 @@
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe.config
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.csprojResolveAssemblyReference.cache
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.Form1.resources
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.Properties.Resources.resources
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.csproj.GenerateResource.Cache
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.exe
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\bin\Debug\PurchaseApp.pdb
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.exe
+C:\Users\Sharad\Documents\Visual Studio 2013\Projects\CS480\hw3\PurchaseApp\PurchaseApp\obj\Debug\PurchaseApp.pdb
